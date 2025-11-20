@@ -4,4 +4,3 @@
 - [ ] Start sprint 2
 - [ ] Add pricing feature
 - [ ] Create a menu for all the options
-- [ ] 
